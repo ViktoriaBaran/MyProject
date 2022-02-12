@@ -1,0 +1,38 @@
+h1 {
+    font-size: 80px;
+}
+
+.t1,
+.t4 {
+    color: blue;
+}
+
+.t2,
+.t6 {
+    color: red;
+}
+
+.t3 {
+    color: yellow;
+}
+
+.t5 {
+    color: green;
+}
+
+.text1 {
+    width: 350px;
+    height: 20px
+}
+
+.submit1 {
+    width: 100px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
